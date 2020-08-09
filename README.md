@@ -1,9 +1,9 @@
 
-# Laboratorio: Publicando un modelo de deep learning en Heroku
+# Tarea en laboratorio: Publicando un modelo de deep learning en Heroku
 
 
-> Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://facemask-udd.herokuapp.com/
-
+>Primer Producto de Datos disponible en el siguiente enlace https://detectagenteudd.herokuapp.com/
+>Considerar que el enlace con heroku no esta con el master sino con jcotaposm/clase_productodatos_2019_udd
 
 ## Antes de empezar
 
