@@ -6,6 +6,12 @@
 
 >Considerar que el enlace con heroku no esta asociado al Master sino con jcotaposm/clase_productodatos_2019_udd
 
+## Objerivo
+El objetivo de este detector es lograr determinar cuando en la foto aparezca un animal o una personas. El objetivo final es llevar el modelo entrenado a una camara streaming que al visualizar a una persona active una alarma de seguridad
+
+
+# Intrucciones con los cuales se construye la solución 
+
 ## Antes de empezar
 
 - Para poder realizar este laboratorio se necesita una cuenta en [GitHub](https://www.github.com/) y [Heroku](https://www.heroku.com/). Ambas son gratuitas y les serán muy útiles en el futuro.
