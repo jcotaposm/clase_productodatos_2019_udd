@@ -4,7 +4,7 @@
 
 >Primer Producto de Datos disponible en el siguiente enlace https://detectagenteudd.herokuapp.com/
 
->Considerar que el enlace con heroku no esta asociado al master sino con jcotaposm/clase_productodatos_2019_udd
+>Considerar que el enlace con heroku no esta asociado al Master sino con jcotaposm/clase_productodatos_2019_udd
 
 ## Antes de empezar
 
